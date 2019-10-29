@@ -1,0 +1,12 @@
+The time series that are stationary are:
+
+(B) Daily changes in the Google stock price for 200 consecutive days
+(G) Annual total of lynx trapped in the McKenzie River district of north-west Canada
+
+We kno that a stationary time series has properties that do not depend on the observation time of the time series. 
+Hence, we clearly see that time series that have trends and which have seasonality cannot be stationary i.e. there are non stationary. This is because trends and seasonality cannot lead to stationary time series properties.
+We therefore notice that generally, a stationary time series should'nt have any predictable patterns in the long-term of its series. 
+
+For the plots provided to us, we see that there is an obvious seasonality in the plots for (D), (H) and (I). On observation, therefore, these cannot be stationary time series. There are also discernable trends in (A), (C), (E), (F) and (I). Hence, due to the trends in these series, these cannot be stationary time series.
+
+Therefore, these only leaves us with the two time series - (B) and (G) that are stationary time series.	 
